@@ -6,8 +6,11 @@ This program uses the javascript to answer questions in the terminal to gather i
 ## Links
 
 
-
+https://github.com/davidrestivo/DRR-Team-Profile-Generator
 
 
 ## Video Example
+
+https://drive.google.com/file/d/11NUahBN8EAlP46b1bNDA9SyJnglQRTgO/view
+
 
